@@ -46,11 +46,12 @@ tags:
 - Company
 - Ai Apps
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Reasoning Models
 - Enterprise AI
 - Model Training
 - LLM
+- Foundation Models
 tags_raw:
 - Company
 - Ai Apps
@@ -60,6 +61,8 @@ tags_raw:
 - Enterprise AI
 - Model Training
 - LLM
+- Machine-Learning
+- Foundation Models
 apis: []
 maintainers:
 - FN: Kin Lane
